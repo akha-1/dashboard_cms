@@ -2,7 +2,7 @@ Nama Proyek
 aplikasi berbasis web yang dikembangkan menggunakan php dan mysql dengan fitur CRUD dashboard
 
 Deskripsi
-proyek ini dibuat untuk orang yang tidak bisa coding untuk di permudah mengudate tampilan pada website
+proyek ini dibuat untuk mempermudah mengudate tampilan pada website tanpa mengubah code
 
 Fitur Utama
 Login
